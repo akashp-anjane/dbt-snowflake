@@ -1,0 +1,11 @@
+id,name,email,address,date_joined,role
+1,Tony Stark,davidwilliam@example.com,"95472 Schmidt Crest Suite 012 Whitetown, VT 28515",2023-12-17,IronMan
+2,Alexander Johnson,harperpaul@example.net,Unit 2678 Box 8680 DPO AA 33271,2022-03-03
+3,Kevin Adams,brianmyers@example.com,"7789 Rivera Fork Apt. 164 Tammyside, RI 89403",2023-07-31
+4,Jordan Burns,hardinsheri@example.net,USNV Allen FPO AA 83082,2024-07-09
+5,Steve Roggers,padams@example.net,"107 Richardson Camp Suite 680 Haleberg, CA 94759",2020-12-13,Captain America
+6,Jason Gutierrez,thomasashley@example.org,"86313 Smith Springs Tamaraland, MH 72781",2020-12-22
+7,Jeffrey Warner,rileyshane@example.net,"562 Morrow Greens West Bryan, GA 41973",2024-07-24
+8,Cody Willis,clarkemichelle@example.com,"01207 Bailey Pass Apt. 391 West Rose, MN 48207",2024-05-08
+9,Randy Davis,dana90@example.net,"498 Brian Motorway Apt. 762 New Aprilmouth, VT 57340",2020-05-19
+10,Thor,perkinscindy@example.org,"5923 Castillo Springs Suite 097 Kingchester, OH 40615",2024-07-12,Thunder_Lord
